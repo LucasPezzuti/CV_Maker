@@ -433,6 +433,7 @@ Este proyecto está bajo licencia **MIT**. Ver archivo `LICENSE` para más detal
 ---
 
 ## 👨‍💻 Autor
+Lucas Pezzuti
 
 Desarrollado como proyecto de portfolio para demostrar habilidades full-stack con Nuxt, Quasar, Laravel y MySQL.
 
@@ -865,6 +866,7 @@ This project is licensed under the **MIT** License. See `LICENSE` file for detai
 ---
 
 ## 👨‍💻 Author
+Lucas Pezzuti
 
 Developed as a portfolio project to demonstrate full-stack skills with Nuxt, Quasar, Laravel, and MySQL.
 
